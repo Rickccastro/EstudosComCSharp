@@ -1,0 +1,16 @@
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\bin\Debug\net8.0-windows\ExpressõesLambda.exe
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\bin\Debug\net8.0-windows\ExpressõesLambda.deps.json
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\bin\Debug\net8.0-windows\ExpressõesLambda.runtimeconfig.json
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\bin\Debug\net8.0-windows\ExpressõesLambda.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\bin\Debug\net8.0-windows\ExpressõesLambda.pdb
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\obj\Debug\net8.0-windows\ExpressõesLambda.frmEstudoLambdas.resources
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\obj\Debug\net8.0-windows\ExpressõesLambda.csproj.GenerateResource.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\obj\Debug\net8.0-windows\ExpressõesLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\obj\Debug\net8.0-windows\ExpressõesLambda.AssemblyInfoInputs.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\obj\Debug\net8.0-windows\ExpressõesLambda.AssemblyInfo.cs
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\obj\Debug\net8.0-windows\ExpressõesLambda.csproj.CoreCompileInputs.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\obj\Debug\net8.0-windows\ExpressõesLambda.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\obj\Debug\net8.0-windows\refint\ExpressõesLambda.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\obj\Debug\net8.0-windows\ExpressõesLambda.pdb
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\obj\Debug\net8.0-windows\ExpressõesLambda.genruntimeconfig.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\ExpressõesLambda\obj\Debug\net8.0-windows\ref\ExpressõesLambda.dll
