@@ -14,3 +14,4 @@ D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8
 D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\Orientação a Eventos.pdb
 D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\Orientação a Eventos.genruntimeconfig.cache
 D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\ref\Orientação a Eventos.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\Orientação a Eventos.sourcelink.json

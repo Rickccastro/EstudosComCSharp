@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4795596A-8F3B-4378-BE69-555B91234D9E}|Express\u00F5esLambda\\Express\u00F5esLambda.csproj|d:\\dev\\visual studio c\\trabalhos\\problemas\\express\u00F5eslambda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4795596A-8F3B-4378-BE69-555B91234D9E}|Express\u00F5esLambda\\Express\u00F5esLambda.csproj|solutionrelative:express\u00F5eslambda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35E80549-5D12-446B-806D-2B7D7DE79C6A}|LINQ\\LINQ.csproj|d:\\dev\\visual studio c\\trabalhos\\problemas\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E80549-5D12-446B-806D-2B7D7DE79C6A}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4795596A-8F3B-4378-BE69-555B91234D9E}|Express\u00F5esLambda\\Express\u00F5esLambda.csproj|d:\\dev\\visual studio c\\trabalhos\\problemas\\express\u00F5eslambda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4795596A-8F3B-4378-BE69-555B91234D9E}|Express\u00F5esLambda\\Express\u00F5esLambda.csproj|solutionrelative:express\u00F5eslambda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{79C994F7-B5E3-45FC-B587-9986EA9995EA}|MetodosDeExtens\u00E3o\\MetodosDeExtens\u00E3o.csproj|d:\\dev\\visual studio c\\trabalhos\\problemas\\metodosdeextens\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C994F7-B5E3-45FC-B587-9986EA9995EA}|MetodosDeExtens\u00E3o\\MetodosDeExtens\u00E3o.csproj|solutionrelative:metodosdeextens\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C994F7-B5E3-45FC-B587-9986EA9995EA}|MetodosDeExtens\u00E3o\\MetodosDeExtens\u00E3o.csproj|d:\\dev\\visual studio c\\trabalhos\\problemas\\metodosdeextens\u00E3o\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C994F7-B5E3-45FC-B587-9986EA9995EA}|MetodosDeExtens\u00E3o\\MetodosDeExtens\u00E3o.csproj|solutionrelative:metodosdeextens\u00E3o\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C994F7-B5E3-45FC-B587-9986EA9995EA}|MetodosDeExtens\u00E3o\\MetodosDeExtens\u00E3o.csproj|d:\\dev\\visual studio c\\trabalhos\\problemas\\metodosdeextens\u00E3o\\exceptionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C994F7-B5E3-45FC-B587-9986EA9995EA}|MetodosDeExtens\u00E3o\\MetodosDeExtens\u00E3o.csproj|solutionrelative:metodosdeextens\u00E3o\\exceptionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +35,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\Express\u00F5esLambda\\Form1.cs",
-              "RelativeDocumentMoniker": "Express\u00F5esLambda\\Form1.cs",
-              "ToolTip": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\Express\u00F5esLambda\\Form1.cs",
-              "RelativeToolTip": "Express\u00F5esLambda\\Form1.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBUAAAA3AAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T14:32:56.632Z",
+              "WhenOpened": "2024-09-26T16:27:58.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionExtension.cs",
+              "DocumentMoniker": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\MetodosDeExtens\u00E3o\\ExceptionExtension.cs",
+              "RelativeDocumentMoniker": "MetodosDeExtens\u00E3o\\ExceptionExtension.cs",
+              "ToolTip": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\MetodosDeExtens\u00E3o\\ExceptionExtension.cs",
+              "RelativeToolTip": "MetodosDeExtens\u00E3o\\ExceptionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:59:58.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\MetodosDeExtens\u00E3o\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "MetodosDeExtens\u00E3o\\StringExtensions.cs",
+              "ToolTip": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\MetodosDeExtens\u00E3o\\StringExtensions.cs",
+              "RelativeToolTip": "MetodosDeExtens\u00E3o\\StringExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:46:27.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\Express\u00F5esLambda\\Form1.cs",
-              "RelativeDocumentMoniker": "Express\u00F5esLambda\\Form1.cs",
-              "ToolTip": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\Express\u00F5esLambda\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Express\u00F5esLambda\\Form1.cs [Projeto]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\MetodosDeExtens\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "MetodosDeExtens\u00E3o\\Program.cs",
+              "ToolTip": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\MetodosDeExtens\u00E3o\\Program.cs",
+              "RelativeToolTip": "MetodosDeExtens\u00E3o\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T14:31:17.498Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-09-26T15:42:28.38Z",
+              "EditorCaption": ""
             }
           ]
         }
