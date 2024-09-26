@@ -1,0 +1,14 @@
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\bin\Debug\net8.0\CovarianciaEContravariancia.exe
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\bin\Debug\net8.0\CovarianciaEContravariancia.deps.json
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\bin\Debug\net8.0\CovarianciaEContravariancia.runtimeconfig.json
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\bin\Debug\net8.0\CovarianciaEContravariancia.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\bin\Debug\net8.0\CovarianciaEContravariancia.pdb
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\obj\Debug\net8.0\CovarianciaEContravariancia.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\obj\Debug\net8.0\CovarianciaEContravariancia.AssemblyInfoInputs.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\obj\Debug\net8.0\CovarianciaEContravariancia.AssemblyInfo.cs
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\obj\Debug\net8.0\CovarianciaEContravariancia.csproj.CoreCompileInputs.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\obj\Debug\net8.0\CovarianciaEContravariancia.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\obj\Debug\net8.0\refint\CovarianciaEContravariancia.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\obj\Debug\net8.0\CovarianciaEContravariancia.pdb
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\obj\Debug\net8.0\CovarianciaEContravariancia.genruntimeconfig.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\CovarianciaEContravariancia\obj\Debug\net8.0\ref\CovarianciaEContravariancia.dll

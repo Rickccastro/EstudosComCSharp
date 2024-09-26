@@ -1,0 +1,1 @@
+-e "# Visual Studio related\n.vs/\n*.user\n*.suo\n*.dbmdl\n*.cache\n\n# Build results\nbin/\nobj/\n\n# Backup files\n*.bak\n\n# Others\n*.vsidx" 

@@ -1,0 +1,14 @@
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\bin\Debug\net8.0\DelegatesMulticast.exe
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\bin\Debug\net8.0\DelegatesMulticast.deps.json
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\bin\Debug\net8.0\DelegatesMulticast.runtimeconfig.json
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\bin\Debug\net8.0\DelegatesMulticast.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\bin\Debug\net8.0\DelegatesMulticast.pdb
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\obj\Debug\net8.0\DelegatesMulticast.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\obj\Debug\net8.0\DelegatesMulticast.AssemblyInfoInputs.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\obj\Debug\net8.0\DelegatesMulticast.AssemblyInfo.cs
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\obj\Debug\net8.0\DelegatesMulticast.csproj.CoreCompileInputs.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\obj\Debug\net8.0\DelegatesMulticast.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\obj\Debug\net8.0\refint\DelegatesMulticast.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\obj\Debug\net8.0\DelegatesMulticast.pdb
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\obj\Debug\net8.0\DelegatesMulticast.genruntimeconfig.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\DelegatesMulticast\obj\Debug\net8.0\ref\DelegatesMulticast.dll

@@ -1,0 +1,16 @@
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\bin\Debug\net8.0-windows\Orientação a Eventos.exe
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\bin\Debug\net8.0-windows\Orientação a Eventos.deps.json
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\bin\Debug\net8.0-windows\Orientação a Eventos.runtimeconfig.json
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\bin\Debug\net8.0-windows\Orientação a Eventos.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\bin\Debug\net8.0-windows\Orientação a Eventos.pdb
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\Orientação_a_Eventos.Form1.resources
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\Orientação a Eventos.csproj.GenerateResource.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\Orientação a Eventos.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\Orientação a Eventos.AssemblyInfoInputs.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\Orientação a Eventos.AssemblyInfo.cs
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\Orientação a Eventos.csproj.CoreCompileInputs.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\Orientação a Eventos.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\refint\Orientação a Eventos.dll
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\Orientação a Eventos.pdb
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\Orientação a Eventos.genruntimeconfig.cache
+D:\DEV\VISUAL STUDIO C\trabalhos\Problemas\Orientação a Eventos\obj\Debug\net8.0-windows\ref\Orientação a Eventos.dll
