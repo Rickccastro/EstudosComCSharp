@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateGenerico", "Delegat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orientação a Eventos", "Orientação a Eventos\Orientação a Eventos.csproj", "{BE241602-7CBF-43D6-934E-CA0566630AED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressõesLambda", "ExpressõesLambda\ExpressõesLambda.csproj", "{4795596A-8F3B-4378-BE69-555B91234D9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressõesLambda", "ExpressõesLambda\ExpressõesLambda.csproj", "{4795596A-8F3B-4378-BE69-555B91234D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosDeExtensão", "MetodosDeExtensão\MetodosDeExtensão.csproj", "{79C994F7-B5E3-45FC-B587-9986EA9995EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{35E80549-5D12-446B-806D-2B7D7DE79C6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{4795596A-8F3B-4378-BE69-555B91234D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4795596A-8F3B-4378-BE69-555B91234D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4795596A-8F3B-4378-BE69-555B91234D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C994F7-B5E3-45FC-B587-9986EA9995EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C994F7-B5E3-45FC-B587-9986EA9995EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C994F7-B5E3-45FC-B587-9986EA9995EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C994F7-B5E3-45FC-B587-9986EA9995EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E80549-5D12-446B-806D-2B7D7DE79C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E80549-5D12-446B-806D-2B7D7DE79C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E80549-5D12-446B-806D-2B7D7DE79C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E80549-5D12-446B-806D-2B7D7DE79C6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
