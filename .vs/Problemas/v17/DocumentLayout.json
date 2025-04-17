@@ -38,8 +38,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\LINQ\\Program.cs",
               "RelativeDocumentMoniker": "LINQ\\Program.cs",
-              "ToolTip": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\LINQ\\Program.cs",
-              "RelativeToolTip": "LINQ\\Program.cs",
+              "ToolTip": "D:\\DEV\\VISUAL STUDIO C\\trabalhos\\Problemas\\LINQ\\Program.cs*",
+              "RelativeToolTip": "LINQ\\Program.cs*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T16:27:58.886Z",
@@ -55,8 +55,7 @@
               "RelativeToolTip": "MetodosDeExtens\u00E3o\\ExceptionExtension.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T15:59:58.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T15:59:58.997Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "MetodosDeExtens\u00E3o\\StringExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T15:46:27.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T15:46:27.013Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "MetodosDeExtens\u00E3o\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T15:42:28.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T15:42:28.38Z"
             }
           ]
         }
